@@ -2,3 +2,4 @@ soundfile
 simpleaudio
 whisper
 txtai
+txtai[pipeline]
