@@ -12,9 +12,9 @@ A ferramenta de terminal desenvolvida é capaz de processar um arquivo de áudio
 
 ### Instalação
 Para instalar as dependências necessárias, execute:
-\```bash
+```
 pip install whisper txtai[pipeline] soundfile simpleaudio googletrans==4.0.0-rc1
-\```
+```
 
 ### Execução
 Para executar a aplicação:
