@@ -1,6 +1,6 @@
 # Tradução, Speech-to-Text e Text-to-Speech
 
-# Link do vídeo de funcionando: https://drive.google.com/file/d/19QDYVbVaXnJ-jhSVH0YmSW1N490wmfxT/view?usp=sharing
+# Link do vídeo de demonstração do projeto: https://drive.google.com/file/d/19QDYVbVaXnJ-jhSVH0YmSW1N490wmfxT/view?usp=sharing
 
 A ferramenta de terminal desenvolvida é capaz de processar um arquivo de áudio fornecido pelo usuário, transformá-lo em texto, traduzir esse texto para outro idioma (por padrão, de português para inglês), e em seguida, sintetizar o texto traduzido em áudio.
 
