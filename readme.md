@@ -18,9 +18,9 @@ pip install whisper txtai[pipeline] soundfile simpleaudio googletrans==4.0.0-rc1
 
 ### Execução
 Para executar a aplicação:
-\```bash
+```
 python3 modelo.py <caminho_para_o_arquivo_de_audio>
-\```
+```
 Substitua `<caminho_para_o_arquivo_de_audio>` pelo caminho do seu arquivo de áudio. No caso, "audio_fra.mp3"
 
 
